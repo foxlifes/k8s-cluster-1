@@ -5,6 +5,7 @@ metadata:
 resources:
   - ./gotk-components.yaml
   - ./gotk-sync.yaml
+  - ../namespaces/podinfo-test.yaml
   - ../apps/podinfo.yaml
   - ../apps/jenkins.yaml
   - ../common/nginx.yaml
